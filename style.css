@@ -1,8 +1,10 @@
 body {
   margin: 0;
-  font-family: 'Segoe UI', sans-serif;
-  background: #111;
-  color: #eee;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #4f2cda, #8c2b9e);
+  color: #fff;
+}
+
   text-align: center;
 }
 
